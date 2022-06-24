@@ -1,0 +1,49 @@
+# 1.1.0:  css的绝对距离计量单位
+
+![image-20220624150648029](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\image-20220624150648029.png)
+
+注意：这些绝对长度单位中，除了 px 像素经常使用外，其他并不常用。
+
+
+
+### 1.1.1：css相对距离计量单位
+
+![image-20220624151248115](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\image-20220624151248115.png)
+
+注意：像 rem 和 vw 单位会在移动端布局中所使用
+
+
+
+
+
+# 2.1.0：颜色种类
+
+####    1.1：指定颜色方式color : “颜色名称”
+
+![image-20220624152044641](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\image-20220624152044641.png)
+
+####   1.2：RGB获取颜色例如：rgb(255, 255, 255) 数值只有0—255。
+
+![image-20220624152246667](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\image-20220624152246667.png)
+
+   
+
+#### 1.3：HEX 颜色 采用十六进制的颜色代表 rr（红色）、gg（绿色）和 bb（蓝色）是介于 00 和 ff 之间的十六进制值（与十进制 0-255相同）。
+
+![image-20220624152510905](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\image-20220624152510905.png)
+
+
+
+#### 1.4： HSL颜色 可以使用色相、饱和度和明度（HSL）来指定颜色，格式如下：hsla(hue, saturation lightness)。
+
+**色相（hue）是色轮上从 0 到 360 的度数。0 是红色，120 是绿色，240 是** **蓝色。饱和度（saturation）是一个百分比值，0％ 表示灰色阴影，而 100％ 是** **全色。亮度（lightness）也是百分比，0％ 是黑色，50％ 是既不明也不暗，100％** **是白色。**
+
+![image-20220624153159218](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\image-20220624153159218.png)
+
+
+
+# 3.1.0：UI设计图的源文件种类
+
+1. .psd 格式源文件，通过 PhotoShop 工具制作。
+2. .sketch 格式源文件，通过 Sketch 工具制作。
+3. .xd 格式源文件，通过 Xd 工具制作。
